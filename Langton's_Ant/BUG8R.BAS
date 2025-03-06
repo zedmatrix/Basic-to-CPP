@@ -87,4 +87,3 @@ CLOSE
 'return to top
 WHILE INKEY$ <> "": WEND
 GOTO Top
-
